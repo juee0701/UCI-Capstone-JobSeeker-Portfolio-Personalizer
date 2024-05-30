@@ -1,7 +1,3 @@
-Sure, here's a detailed README for the Portfolio Builder project:
-
----
-
 # Portfolio Builder
 
 ## Overview

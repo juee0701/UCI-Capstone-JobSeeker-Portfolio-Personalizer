@@ -145,4 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact us at [pawaskas@uci.edu](mailto:pawaskas@uci.edu, [jashtapu@uci.edu](mailto:pawaskas@uci.edu) or [riyamk@uci.edu](mailto:pawaskas@uci.edu)
+For any inquiries, please contact us at [pawaskas@uci.edu](mailto:pawaskas@uci.edu), [jashtapu@uci.edu](mailto:pawaskas@uci.edu) or [riyamk@uci.edu](mailto:pawaskas@uci.edu)

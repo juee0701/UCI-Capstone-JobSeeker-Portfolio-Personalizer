@@ -1,4 +1,6 @@
 # Portfolio Builder
+## Team Members:
+Shreya Pawaskar, Juee Ashtaputre, Riya Kulkarni
 
 ## Overview
 
@@ -139,10 +141,8 @@ We welcome contributions to Portfolio Builder! Please follow these steps to cont
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Team
-
 
 
 ## Contact
 
-For any inquiries, please contact us at [pawaskas@uci.edu](mailto:pawaskas@uci.edu).
+For any inquiries, please contact us at [pawaskas@uci.edu](mailto:pawaskas@uci.edu, [jashtapu@uci.edu](mailto:pawaskas@uci.edu) or [riyamk@uci.edu](mailto:pawaskas@uci.edu)
